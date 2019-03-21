@@ -1,6 +1,10 @@
 hello everybody
 Hello Hoang
 Hoang day
+<<<<<<< HEAD
 Hello now
 hi
 met
+=======
+now hello
+>>>>>>> daeadc1d2b5d0c762d98a017f0ba2f2d906e7505
